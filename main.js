@@ -29,8 +29,11 @@ import Fibonnaci from "excercice.js";
 let m = Brutforce;
 let lettres = [];
 let division = m.split('');
-for (let division = 0; division.length > 0; division.length < 25; division++) ;
 
+for (let division = 0; division < 25; division++) {
+    const element = array[division];
+    
+}
 import lettres from "excercice.js";
 import division from "excercice.js";
 import m from "excercice.js";
