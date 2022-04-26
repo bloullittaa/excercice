@@ -9,5 +9,4 @@ console.log(mot.substring(1,2));
 
 console.log(lettres);
 
-
-// console.log(m);
+console.log(cryptage+ alpha++);

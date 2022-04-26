@@ -28,12 +28,20 @@ import Fibonnaci from "excercice.js";
 
 let m = Brutforce;
 let lettres = [];
-let division = m.split('');
-
-for (let division = 0; division < 25; division++) {
-    const element = array[division];
+let cryptage = m.split('');
+const alpha = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
+//  for (let cryptage = 0; cryptage.length < 25; cryptage++) {
+//   const element = array[cryptage];
     
+//  }
+function cryptage(){
+    let cryptage = 0; cryptage.length < 25; cryptage++;
+   for (let alpha = 0; alpha < array.length; alpha++) {
+       const element = array[alpha];
+       
+   }
 }
+
 import lettres from "excercice.js";
-import division from "excercice.js";
+import cryptage from "excercice.js";
 import m from "excercice.js";
